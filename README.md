@@ -1,6 +1,6 @@
 # Virtual-Machine
 <p align="center">
-<img src="https://imgur.com/a/lFtuUSh" alt="Virtual Machine logo"/>
+<img src="https://imgur.com/a/lFtuUSh" alt="VM logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
