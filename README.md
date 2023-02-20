@@ -4,7 +4,7 @@
 </p>
 
 <h1>Create and Connect Virtual Machine</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines installation and usage of the virtual machine.<br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -16,7 +16,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
-- Linux Ubuntu</b>
+- Ubuntu Server 20.04</b>
 
 <h2>List of Prerequisites</h2>
 
